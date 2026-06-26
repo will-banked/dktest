@@ -9,7 +9,7 @@ import (
 )
 
 import (
-	"github.com/dhui/dktest"
+	"github.com/will-banked/dktest"
 )
 
 func getTestContainerInfo(t *testing.T) dktest.ContainerInfo {
