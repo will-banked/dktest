@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/dhui/dktest"
+	"github.com/will-banked/dktest"
 	"github.com/docker/go-connections/nat"
 )
 

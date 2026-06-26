@@ -10,7 +10,7 @@ import (
 )
 
 import (
-	"github.com/dhui/dktest"
+	"github.com/will-banked/dktest"
 	_ "github.com/lib/pq"
 )
 
